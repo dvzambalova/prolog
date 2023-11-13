@@ -1,0 +1,61 @@
+﻿city(1, "Moscow", europe, 13.1).
+city(2, "Irkutsk", asia, 0.6).
+city(3, "Vladinostok", asia, 0.6).
+city(4, "Ulan-Ude", asia, 0.4).
+city(5, "Saint Peterburg", europe, 5.6).
+city(6, "Kazan", europe, 1.3).
+city(7, "Las Vegas", north_america, 0.6).
+city(8, "Los Angeles", north_america, 3.8).
+city(9, "New York", north_america, 8.5).
+city(10, "Atlanta", north_america, 0.5).
+city(11, "Rome", europe, 2.9).
+city(12, "Milan", europe, 1.4).
+city(13, "Naples", europe, 3.1).
+city(14, "Venice", europe, 0.3).
+city(15, "Sydney", australia, 4.6).
+city(16, "Melbourne", australia, 4.2).
+city(17, "Brisbane", australia, 2.2).
+city(18, "Canberra", australia, 0.4).
+city(19, "Seoul", asia, 10.3).
+city(20, "Busan", asia, 3.7).
+city(21, "Daegu", asia, 2.6).
+city(22, "Sao Paulo", south_america, 11.5).
+city(23, "Rio de Janeiro", south_america, 6.2).
+city(24, "Brasilia", south_america, 2.8).
+city(25, "Cairo", africa, 7.7).
+city(26, "Alexandria", africa, 3.8).
+city(27, "Giza", africa, 2.4).
+country(1, "Russia", 146.5).
+country(2, "USA", 331.9).
+country(3, "Italy", 59.1).
+country(4, "Australia", 25.9).
+country(5, "South Korea", 51.7).
+country(6, "Brazil", 214.3).
+country(7, "Egypt", 109.3).
+present(1, 1).
+present(1, 2).
+present(1, 3).
+present(1, 4).
+present(1, 5).
+present(1, 6).
+present(2, 7).
+present(2, 8).
+present(2, 9).
+present(2, 10).
+present(3, 11).
+present(3, 12).
+present(3, 13).
+present(3, 14).
+present(4, 15).
+present(4, 16).
+present(4, 17).
+present(4, 18).
+present(5, 19).
+present(5, 20).
+present(5, 21).
+present(6, 22).
+present(6, 23).
+present(6, 24).
+present(7, 25).
+present(7, 26).
+present(7, 27).
